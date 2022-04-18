@@ -1,7 +1,7 @@
 # Rational Field for C++
 <br/>
 This project composed mainly of two files - "Rational.cpp" and "Rational.h". <br/>
-Together they create a class 'Q' that gives the ability to make arithmetic calcultaion and rational numbers. <br/>
+Together they create a class 'Q' that gives the ability to make arithmetic calcultaion in rational number field. <br/>
 <br/>
 Some of the supported operations:
 
